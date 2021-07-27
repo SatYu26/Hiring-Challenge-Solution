@@ -1,4 +1,4 @@
-# Bajaj Finserv Programming Challenge (Qualifier 1)
+# Programming Challenge (Qualifier 1) for some "Unnamed Company"
 
 ## Introduction
 
